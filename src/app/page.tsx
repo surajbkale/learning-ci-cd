@@ -17,7 +17,7 @@ export default function Home() {
           Happy Birthday, Suraj! 🎉
         </h1>
         <p className="text-base sm:text-lg text-center sm:text-left text-[#666] dark:text-[#bbb] max-w-[60ch]">
-          Wishing you a year filled with shipping great products, learning new
+          Wishing you a year filled with success, learning new
           things, and inspiring more builders. Have an amazing day! 🎂🚀
         </p>
 

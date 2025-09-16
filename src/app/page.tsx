@@ -14,7 +14,7 @@ export default function Home() {
         />
 
         <h1 className="text-4xl sm:text-5xl font-bold tracking-tight text-center sm:text-left">
-          Happy Birthday, Harkirat! 🎉
+          Happy Birthday, Suraj! 🎉
         </h1>
         <p className="text-base sm:text-lg text-center sm:text-left text-[#666] dark:text-[#bbb] max-w-[60ch]">
           Wishing you a year filled with shipping great products, learning new
@@ -24,13 +24,13 @@ export default function Home() {
         <div className="flex gap-4 items-center flex-col sm:flex-row">
           <a
             className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:w-auto"
-            href="mailto:?subject=Happy%20Birthday%20Harkirat!&body=Happy%20Birthday%2C%20Harkirat!%20🎉%20Wishing%20you%20an%20amazing%20year%20ahead."
+            href="mailto:?subject=Happy%20Birthday%20Suraj!&body=Happy%20Birthday%2C%20Suraj!%20🎉%20Wishing%20you%20an%20amazing%20year%20ahead."
           >
             Send wishes
           </a>
           <a
             className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 w-full sm:w-auto md:w-[158px]"
-            href="https://twitter.com/intent/tweet?text=Happy%20Birthday%2C%20Harkirat!%20🎉%20Keep%20building%20and%20inspiring!"
+            href="https://twitter.com/intent/tweet?text=Happy%20Birthday%2C%20Suraj!%20🎉%20Keep%20building%20and%20inspiring!"
             target="_blank"
             rel="noopener noreferrer"
           >
